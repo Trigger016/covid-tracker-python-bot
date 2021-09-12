@@ -5,4 +5,4 @@ this bot could be used by those who understand Indonesian.
 Feel free to give any feedback
 
 ## Contact
-email = user.user441994@gmail.com
+user.user441994@gmail.com
